@@ -1,0 +1,11 @@
+{
+  "name": "@unclepaul/allcount-azure-eventgrid-publisher",
+  "version": "1.0.0",
+  "description": "provides ability to publish to Azure Event Grid from all-count crud event handlers",
+  "main": "allcount-azure-eventgrid-publisher-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Kotlyar",
+  "license": "MIT"
+}
